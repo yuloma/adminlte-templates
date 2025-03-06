@@ -21,11 +21,10 @@
         "php": "^8.2",
         "illuminate/support": "^12.0",
         "illuminate/view": "^12.0",
-        "infyomlabs/laravel-ui-adminlte": "dev-update-to-laravel-12"
+        "infyomlabs/laravel-ui-adminlte": "dev-update-to-laravel-12@dev"
     },
     "repositories": [
         {
-           
             "url": "https://github.com/yuloma/laravel-ui-adminlte",
             "type": "git"
         }
