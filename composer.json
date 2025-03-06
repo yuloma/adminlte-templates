@@ -23,10 +23,13 @@
         "illuminate/view": "^12.0",
         "infyomlabs/laravel-ui-adminlte": "dev-update-to-laravel-12"
     },
-    {
-        "url": "https://github.com/yuloma/laravel-ui-adminlte",
-        "type": "git"
-    },
+    "repositories": [
+        {
+           
+            "url": "https://github.com/yuloma/laravel-ui-adminlte",
+            "type": "git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "InfyOm\\AdminLTETemplates\\": "src/"
